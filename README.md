@@ -5,7 +5,7 @@ A image identifier implemented with FGPA to achieve fast real-time multiple obje
 # User story:
 * Navigation for Robots
 * Surveillance
-* Self-Driving ars
+* Self-Driving cars
 
 
 
