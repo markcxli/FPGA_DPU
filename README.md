@@ -13,8 +13,9 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 * Calculate memory bandwidths for the DL program on GPU and FPGA
 
 # Similar Products:
-1. NVIDIA Deep Learning Accelerator(NVDLA) 
-This is a free and open architecture that promotes a standard way to design deep learning inference accelerators. NVDLA is scalable, highly configurable, and designed to simplify integration and portability. The hardware supports a wide range of IoT devices. 
+1. NVIDIA Deep Learning Accelerator(NVDLA): 
+*This is a free and open architecture that promotes a standard way to design deep learning inference accelerators. NVDLA is scalable, highly configurable, and designed to simplify integration and portability. The hardware supports a wide range of IoT devices. 
+*NVDLA overview: http://nvdla.org
 
 
 # User Stories:
