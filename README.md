@@ -1,6 +1,8 @@
 # FGPA_DPU_object_detector
 A image identifier implemented with FGPA to achieve fast real-time multiple object detection.
 
+TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
+
 # Project Goals:
 1. Find a state-of-art multiple object detection model
 2. Measure  its performance on GPU for inferencing
