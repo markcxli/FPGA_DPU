@@ -14,8 +14,8 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 
 # Similar Products:
 1. NVIDIA Deep Learning Accelerator(NVDLA): 
-*This is a free and open architecture that promotes a standard way to design deep learning inference accelerators. NVDLA is scalable, highly configurable, and designed to simplify integration and portability. The hardware supports a wide range of IoT devices. 
-*NVDLA overview: http://nvdla.org
+* This is a free and open architecture that promotes a standard way to design deep learning inference accelerators. NVDLA is scalable, highly configurable, and designed to simplify integration and portability. The hardware supports a wide range of IoT devices. 
+* NVDLA overview: http://nvdla.org
 
 
 # User Stories:
