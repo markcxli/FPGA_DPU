@@ -20,6 +20,27 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 * TPU is tailored to machine learning applications, allowing the chip to be more tolerant of reduced computational precision, which means it requires fewer transistors per operation. TPUs power many applications at Google, including RankBrain, used to improve the relevancy of search results and Street View, to improve the accuracy and quality of our maps and. navigation.
 * TPU overview: https://cloud.google.com/blog/products/gcp/quantifying-the-performance-of-the-tpu-our-first-machine-learning-chip
 
+
+# Sprint 1
+* Mange to run YOLO on GPU
+* Compare YOLO's performance on GPU to on CPU
+* Get FPGA
+
+# Sprint 2 (Lots of work on reverse-enginneering darknet YOLO)
+* Refactor YOLO we got from https://pjreddie.com/darknet/yolo/ 
+* Rewrite YOLO with DNNDK API
+* 
+
+# Results from sprint 1
+* Prediction on BU SCC GPU 0.925530 seconds. 
+* Prediction on CPU(single core). Intel Core i5: 19.457083 seconds.
+* GPU Spec: 
+	* Tesla P100 PCIe 16GB
+	* Width: 64 bits 
+	* Clock: 33MHz
+
+
+
 # User Stories:
 * Navigation for Robots
 * Surveillance
