@@ -21,17 +21,17 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 * TPU overview: https://cloud.google.com/blog/products/gcp/quantifying-the-performance-of-the-tpu-our-first-machine-learning-chip
 
 
-# Sprint 1
+## Sprint 1
 * Mange to run YOLO on GPU
 * Compare YOLO's performance on GPU to on CPU
 * Get FPGA
 
-# Sprint 2 (Lots of work on reverse-enginneering darknet YOLO)
+## Sprint 2 (Lots of work on reverse-enginneering darknet YOLO)
 * Refactor YOLO we got from https://pjreddie.com/darknet/yolo/ 
 * Rewrite YOLO with DNNDK API
 * 
 
-# Results from sprint 1
+### Results from sprint 1
 * Prediction on BU SCC GPU 0.925530 seconds. 
 * Prediction on CPU(single core). Intel Core i5: 19.457083 seconds.
 * GPU Spec: 
