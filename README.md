@@ -16,7 +16,7 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 * The Xilinx® Deep Learning Processor Unit (DPU) is a programmable engine optimized for convolutional neural networks. The unit includes a high performance scheduler module, a hybrid computing array module, an instruction fetch unit module, and a global memory pool module. The DPU uses a specialized instruction set, which allows for the efficient implementation of many convolutional neural networks. Some examples of convolutional neural networks which have been deployed include VGG, ResNet, GoogLeNet, YOLO, SSD, MobileNet, FPN, and many others.
 * The DPU IP can be implemented in the programmable logic (PL) of the selected Zynq®-7000 SoC or Zynq UltraScale+™ MPSoC devices with direct connections to the processing system (PS). The DPU requires instructions to implement a neural network and accessible memory locations for input images as well as temporary and output data. A program running on the application processing unit (APU) is also required to service interrupts and coordinate data transfers. https://www.xilinx.com/products/design-tools/ai-inference/ai-developer-hub.html#edge
 
-![image](https://github.com/ChainZeeLi/FPGA_DPU/blob/master/image.png)
+![image](https://github.com/ChainZeeLi/FPGA_DPU/blob/master/DPU.png)
 
 # DPU Development Flow (Using DNNDK)
 * The DPU requires a device driver which is included in the Xilinx Deep Neural Network Development Kit (DNNDK) toolchain.
