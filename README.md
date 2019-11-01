@@ -41,7 +41,7 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 ## Sprint 2 (Lots of work on reverse-enginneering darknet YOLO)
 * Refactor YOLO we got from https://pjreddie.com/darknet/yolo/ 
 * Rewrite YOLO with DNNDK API
-
+* Implement DPU on vivado and run some simulation tests
 
 ### Results from sprint 1
 * Prediction on BU SCC GPU 0.925530 seconds. 
