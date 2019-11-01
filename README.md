@@ -44,7 +44,7 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 * Implement DPU on vivado and run some simulation tests
 
 ### Results from sprint 1
-#### Time on detecting one image
+#### Time taken to detect obejcts on a single image
 * Prediction on BU SCC GPU 0.925530 seconds. 
 * Prediction on CPU(single core). Intel Core i5: 19.457083 seconds.
 * GPU Spec: 
