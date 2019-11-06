@@ -41,7 +41,10 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 ## Sprint 2 (Lots of work on reverse-enginneering darknet YOLO)
 * Refactor YOLO we got from https://pjreddie.com/darknet/yolo/ 
 * Rewrite YOLO with DNNDK API
-* Implement DPU on vivado and run some simulation tests
+* Looked into different methods to run the given C code on an FPGA
+	* Use OpenCL framework to run the code on an Intel FPGA. Can be done using the Intel FPGA SDK for OpenCL
+	* Convert the code into HDL to run on a Xilinx FPGA
+	   * Implement DPU on vivado and run some simulation tests
 
 ### Results from sprint 1
 #### Time taken to detect obejcts on a single image
