@@ -65,7 +65,7 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 #Poster
 ![image](https://github.com/ChainZeeLi/FPGA_DPU/blob/master/A2_09.jpg)
 
-Use YOLOv3 algorithm
+Use YOLOv2 algorithm
 
 
 
