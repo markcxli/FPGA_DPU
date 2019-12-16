@@ -63,7 +63,7 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 * Self-Driving cars
 
 #Poster
-[!image](https://github.com/ChainZeeLi/FPGA_DPU/blob/master/A2_09.jpg)
+![image](https://github.com/ChainZeeLi/FPGA_DPU/blob/master/A2_09.jpg)
 
 Use YOLOv3 algorithm
 
