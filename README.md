@@ -56,6 +56,8 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 	* Clock: 33MHz
 
 ## Sprint 3
+* Achieved object detection using Hardware Accelerator based on FPGA
+* Compare the performance and Power efficiency between FPGA, GPU and CPU
 ### System Diagram
 ![image](https://github.com/ChainZeeLi/FPGA_DPU/blob/master/XDNN.jpeg)
 Graph above shows the system diagram of the design using YOLOv2 model with darknet-19. In this design we used CPU as the co-processor and used FPGA to accelerate the calculation. The acceleration card we used is Xilinx ML Suite-Alveo U200 and we developed it on AWS(Amazon Web Services)
