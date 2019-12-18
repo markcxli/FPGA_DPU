@@ -62,7 +62,7 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 * Surveillance
 * Self-Driving cars
 
-#Poster
+# Poster
 ![image](https://github.com/ChainZeeLi/FPGA_DPU/blob/master/A2_09.jpg)
 
 Use YOLOv2 algorithm
