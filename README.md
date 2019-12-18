@@ -55,17 +55,18 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 	* Width: 64 bits 
 	* Clock: 33MHz
 
-
+## Sprint 3
 
 # User Stories:
 * Navigation for Robots
 * Surveillance
 * Self-Driving cars
+Use YOLOv2 algorithm
 
 # Poster
 ![image](https://github.com/ChainZeeLi/FPGA_DPU/blob/master/A2_09.jpg)
 
-Use YOLOv2 algorithm
+
 
 
 
