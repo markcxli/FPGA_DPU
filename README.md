@@ -56,6 +56,8 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 	* Clock: 33MHz
 
 ## Sprint 3
+### System Diagram
+![image](https://github.com/ChainZeeLi/FPGA_DPU/blob/master/XDNN.jpeg)
 
 # User Stories:
 * Navigation for Robots
