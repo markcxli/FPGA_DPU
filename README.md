@@ -63,9 +63,11 @@ TEAM MEMBERS: Zuxiong Tan, Samyak Jain, Chenxi Li
 Graph above shows the system diagram of the design using **YOLOv2** model with darknet-19. In this design we used CPU as the co-processor and used FPGA to accelerate the calculation. The acceleration card we used is Xilinx ML Suite-Alveo U200 and we developed it on AWS(Amazon Web Services)
 ### Performance
 ![image](https://github.com/ChainZeeLi/FPGA_DPU/blob/master/Performance.jpg)
+
 According to the graph, GPU runs **15.5** times faster than CPU, FPGA runs **4.9** times faster than CPU.
 ### Power efficiency
 ![image](https://github.com/ChainZeeLi/FPGA_DPU/blob/master/power.jpg)
+
 Power efficiency = speed/power, where GPU is **5.89** times better than CPU, FPGA is **52.6** times better than CPU.
 # User Stories:
 * Navigation for Robots
